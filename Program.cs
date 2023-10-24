@@ -35,6 +35,8 @@ namespace HelloWorld
             string name = "Ashim";
 
             Console.WriteLine($"String count {name.Length}");
+
+            Console.WriteLine(3 + 3);
         }
     }
 }
